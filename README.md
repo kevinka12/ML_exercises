@@ -1,3 +1,4 @@
+
 # projekt_kn
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -59,3 +60,6 @@ test
 
 --------
 
+=======
+# KevNat Projekt
+>>>>>>> 12e85a6b5a13bf7ee364ddfae187f437b9bc51c0
